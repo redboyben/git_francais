@@ -1,0 +1,22 @@
+[alias]
+    commettre = !git commit
+    pousser = !git push
+    tirer = !git pull
+    fusionner = !git merge
+    etat = !git status
+    ajouter = !git add
+    instaurer = !git checkout
+    rembobiner = !git rebase
+    configuration = !git config
+    init = !git initialiser
+    clone = !git cloner
+    branche = !git branch
+    stash = !git planquer
+    diff = !git difference
+    log = !git historique
+    blamer = !git blame
+    taguer = !git tag
+    extraire = !git grep
+    aller-chercher = !git fetch
+    reinitialiser = !git reset
+    montrer = !git show
