@@ -20,3 +20,7 @@
     aller-chercher = !git fetch
     reinitialiser = !git reset
     montrer = !git show
+    basculer = !git switch
+    restaurer = !git restore
+    picorer = !git cherry-pick
+    pour-chaque-branche = !git for-each-ref
