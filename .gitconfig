@@ -8,12 +8,12 @@
     instaurer = !git checkout
     rembobiner = !git rebase
     configuration = !git config
-    init = !git initialiser
-    clone = !git cloner
+    initialiser = !git init
+    cloner = !git clone
     branche = !git branch
-    stash = !git planquer
-    diff = !git difference
-    log = !git historique
+    planquer = !git stash
+    difference = !git diff
+    historique = !git log
     blamer = !git blame
     taguer = !git tag
     extraire = !git grep
