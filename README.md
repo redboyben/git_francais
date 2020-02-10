@@ -9,7 +9,7 @@ D'où la traduction approximative de *git* en *fdp*.
 
 ## Comment l'utiliser
 
-### TL,FfL (Trop Long, Flemme de Lire)
+### TL,FL (Trop Long, Flemme de Lire)
 Voir le fichier .gitconfig pour les alias des commandes git, et .basrhc (Shell) ou Microsoft.PowerShell_profile.ps1 (PowerShell) pour l'alias de la commande git elle-même.
 
 ### Version longue
