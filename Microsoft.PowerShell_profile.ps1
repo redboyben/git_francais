@@ -1,1 +1,1 @@
-New-Alias fdp git
+New-Alias con git
