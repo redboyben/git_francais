@@ -1,1 +1,1 @@
-alias fdp=git
+alias con=git
